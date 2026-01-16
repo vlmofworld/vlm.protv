@@ -1,199 +1,171 @@
 #EXTM3U
-
-# --- Category: Bangla ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnWdHSrq/20250529-071604.png" group-title="Bangla", BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-https://bongoflixbd.top/bk/53.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="News", BTV News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/500px-BTV_Chattogram_Logo.svg.png" group-title="Bangla", BTV CTG
-https://satoshi-cors.herokuapp.com/https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SG/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/500px-Sangsad_Television_Emblem.svg.png" group-title="Bangla", BTV Sansad
-http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4D0hyrt/20250529-071035.png" group-title="News", JamunaTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-https://bongoflixbd.top/jamunatv.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxn4JFNV/20250529-071147.png" group-title="News", Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-https://bongoflixbd.top/somoy.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLmPznJr/20250529-071852.png" group-title="News", Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-https://bongoflixbd.top/channel24.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://thebengalee.com/wp-content/uploads/2026/01/photo_2026-01-14_19-08-37-1-300x300.webp" group-title="Bangla", Sami TV HD
-https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0xCDZqj/20250529-071258.png" group-title="News", Ekattor
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-https://bongoflixbd.top/bk/11.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtkYQSVr/20250529-071659.png" group-title="News", Independent
-https://bongoflixbd.top/bk/12.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/4.png" group-title="Bangla",Channel 9
-https://edge2.roarzone.info:8444/roarzone/bk/4/index.m3u8?token=f883393ae0059187d3f111cf8bee56b011ceed68-be3210abede794e09a8969a51a044532-1768369897-1768366297
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="Bangla",Asian TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
-https://tvsen6.aynascope.net/asiantv/index.m3u8?e=1768372720&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c6235bae9137654593ffc185faae0a56
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="Bangla",SA TV
-https://tvsen6.aynascope.net/satv/index.m3u8?e=1768372721&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b76f55a24b20ec911bafa17d8747995a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzvgdpRg/20250529-102312.png" group-title="News", DBC News
-https://bongoflixbd.top/bk/7.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NBkk4fT/20250529-102724.png" group-title="News", ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-https://bongoflixbd.top/bk/49.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzGFfbYb/20250529-072833.png" group-title="Bangla", Bangla Vision
-https://bongoflixbd.top/bk/3.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgzHqBLL/20250529-072107.png" group-title="Bangla", NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-https://bongoflixbd.top/bk/54.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHBMzPkW/20250529-102502.png" group-title="Bangla", ATN Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-https://bongoflixbd.top/bk/2.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangla",Anando TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47vqwbY/20250529-101717.png" group-title="Bangla", Channel i
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-https://bongoflixbd.top/bk/6.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangla",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjKGfnW8/20250704_201040.png" group-title="Bangla", GTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-https://bongoflixbd.top/gazitv.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XPHbts0/20250529-103607.png" group-title="Bangla", Deepto
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-https://bongoflixbd.top/bk/8.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg?w=1600&q=75",Srk Tv
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zQ0DYBH/20250720_201346.png" group-title="Bangla", Nagorik
-https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
-https://bongoflixbd.top/nagorik.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbnjN67C/20250529-104926.png" group-title="Bangla", Maasranga
-https://bongoflixbd.top/bk/51.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="Bangla",Channel S HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sggzvQ6X/20250529-105045.png" group-title="News", Ekhon TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6R2F0jj/20250529_105209.png" group-title="Bangla", Ekushe TV
-https://bongoflixbd.top/bk/65.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kmxMkrr/20250529_101852.png" group-title="Bangla", RTV
-https://bongoflixbd.top/bk/14.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png" group-title="Bangla", MY TV
-https://mytvbangla.com/0.m3u8
-https://bongoflixbd.top/bk/56.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png" group-title="Bangla", Movie Bangla
-https://bongoflixbd.top/bk/86.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0MVZZT9/20250529-101947.png" group-title="Bangla", Boishakhi
-https://bongoflixbd.top/bk/61.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/19.png" group-title="Bangla",Bangla tv
-https://edge2.roarzone.info:8444/roarzone/bk/19/index.m3u8?token=0a949527a9b774bcd3f41c3fb4b670e937e6121d-8ed2fab895f4f4d08c49a94bfe30a7a7-1768369897-1768366297
-# --- Category: Sports ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707_141739.png" group-title="Sports", Tsports
+#EXTINF:-1 tvg-name="Tsports" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707_141739.png" group-title="Sports",Tsports
 https://bongoflixbd.top/tsports.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
+#EXTINF:-1 tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
 https://tvsen6.aynascope.net/asports/index.m3u8?e=1768372757&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e12834e39fc8e751ef1f9ddab05e5563
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K89SfFWN/20251208_221926.png" group-title="Sports", Euro Sports
+#EXTINF:-1 tvg-name="Euro Sports" tvg-logo="https://i.postimg.cc/K89SfFWN/20251208_221926.png" group-title="Sports",Euro Sports
 https://bongoflixbd.top/toffee/euro_sports_hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWV00yP8/tencricket.png" group-title="Sports", Ten Cricket
+#EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://i.postimg.cc/fWV00yP8/tencricket.png" group-title="Sports",Ten Cricket
 https://bongoflixbd.top/toffee/ten_cricket.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxvT7Y24/20251208_222149.png" group-title="Sports", Dubai Sports
+#EXTINF:-1 tvg-name="Dubai Sports" tvg-logo="https://i.postimg.cc/CxvT7Y24/20251208_222149.png" group-title="Sports",Dubai Sports
 https://bongoflixbd.top/bk/dubai-sports.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0sYHFDj/20251002_230032.png" group-title="Sports", Star Sports 1
+#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://i.postimg.cc/N0sYHFDj/20251002_230032.png" group-title="Sports",Star Sports 1
 https://bongoflixbd.top/star-sports-1-hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNvbVTHy/20250702_032050.png" group-title="Sports", Star Sports 2
+#EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://i.postimg.cc/yNvbVTHy/20250702_032050.png" group-title="Sports",Star Sports 2
 https://bongoflixbd.top/star-sports-2-hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50ykjF9d/20250702_032238.png" group-title="Sports", Star Sports Select 1
+#EXTINF:-1 tvg-name="Star Sports Select 1" tvg-logo="https://i.postimg.cc/50ykjF9d/20250702_032238.png" group-title="Sports",Star Sports Select 1
 https://bongoflixbd.top/bk/27.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzvFX06y/20251002_225947.png" group-title="Sports", Star Sports Select 2
+#EXTINF:-1 tvg-name="Star Sports Select 2" tvg-logo="https://i.postimg.cc/DzvFX06y/20251002_225947.png" group-title="Sports",Star Sports Select 2
 https://bongoflixbd.top/bk/28.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2Cc7zX/20250529_122631.png" group-title="Sports", Sony Sports 1
+#EXTINF:-1 tvg-name="Sony Sports 1" tvg-logo="https://i.postimg.cc/cH2Cc7zX/20250529_122631.png" group-title="Sports",Sony Sports 1
 https://bongoflixbd.top/sony-sports-1-hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x12k7R1Z/20250529_122855.png" group-title="Sports", Sony Sports 2
+#EXTINF:-1 tvg-name="Sony Sports 2" tvg-logo="https://i.postimg.cc/x12k7R1Z/20250529_122855.png" group-title="Sports",Sony Sports 2
 https://bongoflixbd.top/sony-sports-2-hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vH9g3jb9/20250529_123011.png" group-title="Sports", Sony Sports 3
+#EXTINF:-1 tvg-name="Sony Sports 3" tvg-logo="https://i.postimg.cc/vH9g3jb9/20250529_123011.png" group-title="Sports",Sony Sports 3
 https://bongoflixbd.top/sony-sports-3-hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMLRN93q/20250529_123147.png" group-title="Sports", Sony Sports 5
+#EXTINF:-1 tvg-name="Sony Sports 5" tvg-logo="https://i.postimg.cc/kMLRN93q/20250529_123147.png" group-title="Sports",Sony Sports 5
 https://bongoflixbd.top/sony-sports-5-hd.m3u8?user=bongoflix&pass=eaminvai
-
-# --- Category: Indian Bangla ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="Indian", Star Jalsha
-https://bongoflixbd.top/bk/30.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Indian", Zee Bangla
-https://bongoflixbd.top/bk/34.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLdjn6zR/20250602_220804.png" group-title="Indian", Colors Bangla
-https://bongoflixbd.top/bk/66.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX122cy3/20250529-111624.png" group-title="Indian", Enterr 10
-https://bongoflixbd.top/enterr10.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="Indian", Sony Aath
-https://bongoflixbd.top/bk/33.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2nGNxc8/20250707_053157.png" group-title="Indian", Jalsha Movies
-https://bongoflixbd.top/bk/31.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq0JDBpg/20250529_110358.png" group-title="Indian", Zee Bangla Cinema
-https://bongoflixbd.top/bk/29.m3u8?user=bongoflix&pass=eaminvai
-
-# --- Category: Hindi & Movies ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yDQ0JGC/20250529_131726.png" group-title="Hindi", Sony Television
-https://bongoflixbd.top/bk/38.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529_131834.png" group-title="Hindi", Sony Max
-https://bongoflixbd.top/bk/77.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529_131834.png" group-title="Hindi", Sony Max HD
-https://bongoflixbd.top/toffee/sony_max_hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYbYqvJh/20250529_132238.png" group-title="Hindi", Sony Max 2
-https://bongoflixbd.top/toffee/sonymax_2.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdy3k1qZ/20251202_090150.png" group-title="Hindi", Colors TV
-https://bongoflixbd.top/bk/68.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z18kKRT/20250529_133622.png" group-title="Hindi", Zee TV
-https://bongoflixbd.top/bk/40.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhDsSWxB/20250529_133753.png" group-title="Hindi", Zee Cinema
-https://bongoflixbd.top/bk/76.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png" group-title="Hindi", Zee Bollywood
-https://bongoflixbd.top/toffee/zee_bollywood.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJzsJNt9/20250529_133255.png" group-title="Hindi", And TV
-https://bongoflixbd.top/bk/74.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5N2qtB5/20250529_133459.png" group-title="Hindi", And Picture
-https://bongoflixbd.top/bk/100.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7gWQZjw/20251202_090307.png" group-title="Hindi", Star Plus
-https://bongoflixbd.top/bk/67.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202_090224.png" group-title="Hindi", Star Gold
-https://bongoflixbd.top/bk/72.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYcpKMDZ/20251222_213635.png" group-title="Hindi", Star Movies
-https://bongoflixbd.top/bk/starmovies.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png" group-title="Hindi", B4U Movie
-https://bongoflixbd.top/toffee/b4u_movies.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFXqn515/20250529_132912.png" group-title="Hindi", Hum TV
-https://bongoflixbd.top/toffee/hum_tv.m3u8?user=bongoflix&pass=eaminvai
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="News",BBC News
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.postimg.cc/JnWdHSrq/20250529-071604.png" group-title="Bangla",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-name="BTV CTG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/500px-BTV_Chattogram_Logo.svg.png" group-title="Bangla",BTV CTG
+https://satoshi-cors.herokuapp.com/https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SG/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+#EXTINF:-1 tvg-name="BTV Sansad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/500px-Sangsad_Television_Emblem.svg.png" group-title="Bangla",BTV Sansad
+http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sami TV HD" tvg-logo="https://thebengalee.com/wp-content/uploads/2026/01/photo_2026-01-14_19-08-37-1-300x300.webp" group-title="Bangla",Sami TV HD
+https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="http://tvassets.roarzone.info/images/4.png" group-title="Bangla",Channel 9
+https://edge2.roarzone.info:8444/roarzone/bk/4/index.m3u8?token=f883393ae0059187d3f111cf8bee56b011ceed68-be3210abede794e09a8969a51a044532-1768369897-1768366297
+#EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="Bangla",Asian TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="Bangla",SA TV
+https://tvsen6.aynascope.net/satv/index.m3u8?e=1768372721&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b76f55a24b20ec911bafa17d8747995a
+#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://i.postimg.cc/JzGFfbYb/20250529-072833.png" group-title="Bangla",Bangla Vision
+https://bongoflixbd.top/bk/3.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.postimg.cc/kgzHqBLL/20250529-072107.png" group-title="Bangla",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://i.postimg.cc/FHBMzPkW/20250529-102502.png" group-title="Bangla",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-name="Anando TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png" group-title="Bangla",Anando TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel i" tvg-logo="https://i.postimg.cc/J47vqwbY/20250529-101717.png" group-title="Bangla",Channel i
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-name="Green TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="Bangla",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.postimg.cc/jjKGfnW8/20250704_201040.png" group-title="Bangla",GTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Deepto" tvg-logo="https://i.postimg.cc/9XPHbts0/20250529-103607.png" group-title="Bangla",Deepto
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-name="Srk Tv" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg?w=1600&q=75" group-title="Bangla",Srk Tv
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Nagorik" tvg-logo="https://i.postimg.cc/8zQ0DYBH/20250720_201346.png" group-title="Bangla",Nagorik
+https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Maasranga" tvg-logo="https://i.postimg.cc/WbnjN67C/20250529-104926.png" group-title="Bangla",Maasranga
+https://bongoflixbd.top/bk/51.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Channel S HD" tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="Bangla",Channel S HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ekushe TV" tvg-logo="https://i.postimg.cc/L6R2F0jj/20250529_105209.png" group-title="Bangla",Ekushe TV
+https://bongoflixbd.top/bk/65.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.postimg.cc/8kmxMkrr/20250529_101852.png" group-title="Bangla",RTV
+https://bongoflixbd.top/bk/14.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="MY TV" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png" group-title="Bangla",MY TV
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png" group-title="Bangla",Movie Bangla
+https://bongoflixbd.top/bk/86.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Boishakhi" tvg-logo="https://i.postimg.cc/Y0MVZZT9/20250529-101947.png" group-title="Bangla",Boishakhi
+https://bongoflixbd.top/bk/61.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Bangla tv" tvg-logo="http://tvassets.roarzone.info/images/19.png" group-title="Bangla",Bangla tv
+https://edge2.roarzone.info:8444/roarzone/bk/19/index.m3u8?token=0a949527a9b774bcd3f41c3fb4b670e937e6121d-8ed2fab895f4f4d08c49a94bfe30a7a7-1768369897-1768366297
+#EXTINF:-1 tvg-name="BTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="News",BTV News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="JamunaTV" tvg-logo="https://i.postimg.cc/L4D0hyrt/20250529-071035.png" group-title="News",JamunaTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/Qxn4JFNV/20250529-071147.png" group-title="News",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/nLmPznJr/20250529-071852.png" group-title="News",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-name="Ekattor" tvg-logo="https://i.postimg.cc/D0xCDZqj/20250529-071258.png" group-title="News",Ekattor
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-name="Independent" tvg-logo="https://i.postimg.cc/QtkYQSVr/20250529-071659.png" group-title="News",Independent
+https://bongoflixbd.top/bk/12.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://i.postimg.cc/nzvgdpRg/20250529-102312.png" group-title="News",DBC News
+https://bongoflixbd.top/bk/7.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://i.postimg.cc/4NBkk4fT/20250529-102724.png" group-title="News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/sggzvQ6X/20250529-105045.png" group-title="News",Ekhon TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="News",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
-
-# --- Category: Music ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdddb1bs/20250529_120025.png" group-title="Music", Sangeet Bangla
+#EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="Indian",Star Jalsha
+https://bongoflixbd.top/bk/30.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="w_300" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Indian",w_300
+https://bongoflixbd.top/bk/34.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Colors Bangla" tvg-logo="https://i.postimg.cc/HLdjn6zR/20250602_220804.png" group-title="Indian",Colors Bangla
+https://bongoflixbd.top/bk/66.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Enterr 10" tvg-logo="https://i.postimg.cc/LX122cy3/20250529-111624.png" group-title="Indian",Enterr 10
+https://bongoflixbd.top/enterr10.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="Indian",Sony Aath
+https://bongoflixbd.top/bk/33.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Jalsha Movies" tvg-logo="https://i.postimg.cc/T2nGNxc8/20250707_053157.png" group-title="Indian",Jalsha Movies
+https://bongoflixbd.top/bk/31.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/Zq0JDBpg/20250529_110358.png" group-title="Indian",Zee Bangla Cinema
+https://bongoflixbd.top/bk/29.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Sony Television" tvg-logo="https://i.postimg.cc/0yDQ0JGC/20250529_131726.png" group-title="Hindi",Sony Television
+https://bongoflixbd.top/bk/38.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529_131834.png" group-title="Hindi",Sony Max
+https://bongoflixbd.top/bk/77.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529_131834.png" group-title="Hindi",Sony Max HD
+https://bongoflixbd.top/toffee/sony_max_hd.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/KYbYqvJh/20250529_132238.png" group-title="Hindi",Sony Max 2
+https://bongoflixbd.top/toffee/sonymax_2.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Colors TV" tvg-logo="https://i.postimg.cc/pdy3k1qZ/20251202_090150.png" group-title="Hindi",Colors TV
+https://bongoflixbd.top/bk/68.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://i.postimg.cc/1z18kKRT/20250529_133622.png" group-title="Hindi",Zee TV
+https://bongoflixbd.top/bk/40.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://i.postimg.cc/nhDsSWxB/20250529_133753.png" group-title="Hindi",Zee Cinema
+https://bongoflixbd.top/bk/76.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Zee Bollywood" tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png" group-title="Hindi",Zee Bollywood
+https://bongoflixbd.top/toffee/zee_bollywood.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="And TV" tvg-logo="https://i.postimg.cc/bJzsJNt9/20250529_133255.png" group-title="Hindi",And TV
+https://bongoflixbd.top/bk/74.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="And Picture" tvg-logo="https://i.postimg.cc/k5N2qtB5/20250529_133459.png" group-title="Hindi",And Picture
+https://bongoflixbd.top/bk/100.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Star Plus" tvg-logo="https://i.postimg.cc/q7gWQZjw/20251202_090307.png" group-title="Hindi",Star Plus
+https://bongoflixbd.top/bk/67.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202_090224.png" group-title="Hindi",Star Gold
+https://bongoflixbd.top/bk/72.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Star Movies" tvg-logo="https://i.postimg.cc/TYcpKMDZ/20251222_213635.png" group-title="Hindi",Star Movies
+https://bongoflixbd.top/bk/starmovies.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="B4U Movie" tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png" group-title="Hindi",B4U Movie
+https://bongoflixbd.top/toffee/b4u_movies.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://i.postimg.cc/RFXqn515/20250529_132912.png" group-title="Hindi",Hum TV
+https://bongoflixbd.top/toffee/hum_tv.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/pdddb1bs/20250529_120025.png" group-title="Music",Sangeet Bangla
 https://bongoflixbd.top/sangeetbangla.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5yq7ncL/20250529_120144.png" group-title="Music", 9Xm
+#EXTINF:-1 tvg-name="9Xm" tvg-logo="https://i.postimg.cc/P5yq7ncL/20250529_120144.png" group-title="Music",9Xm
 https://bongoflixbd.top/9xm.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="Music", Zoom
+#EXTINF:-1 tvg-name="Zoom" tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="Music",Zoom
 https://bongoflixbd.top/zoom.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="Music", Yrf Music
+#EXTINF:-1 tvg-name="Yrf Music" tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="Music",Yrf Music
 https://bongoflixbd.top/yrfmusic.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKyHyQmm/20250529_120709.png" group-title="Music", Show Box
+#EXTINF:-1 tvg-name="Show Box" tvg-logo="https://i.postimg.cc/MKyHyQmm/20250529_120709.png" group-title="Music",Show Box
 https://bongoflixbd.top/showbox.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqfCWzxk/20250529_122103.png" group-title="Music", B4U Music
+#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://i.postimg.cc/ZqfCWzxk/20250529_122103.png" group-title="Music",B4U Music
 https://bongoflixbd.top/b4umusic.m3u8?user=bongoflix&pass=eaminvai
-
-# --- Category: Kids ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2WM2BPR/20251127_095726.png" group-title="Kids", Duronto
+#EXTINF:-1 tvg-name="Duronto" tvg-logo="https://i.postimg.cc/s2WM2BPR/20251127_095726.png" group-title="Kids",Duronto
 https://bongoflixbd.top/bk/10.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5VX5t9/20250707_053227.png" group-title="Kids", Nick
+#EXTINF:-1 tvg-name="Nick" tvg-logo="https://i.postimg.cc/5y5VX5t9/20250707_053227.png" group-title="Kids",Nick
 https://bongoflixbd.top/bk/55.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3FbtF4r/20250529_115709.png" group-title="Kids", pogo
+#EXTINF:-1 tvg-name="pogo" tvg-logo="https://i.postimg.cc/W3FbtF4r/20250529_115709.png" group-title="Kids",pogo
 https://bongoflixbd.top/toffee/pogo_sd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXdcjfHg/20250529_115821.png" group-title="Kids", Discovery Kids
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://i.postimg.cc/pXdcjfHg/20250529_115821.png" group-title="Kids",Discovery Kids
 https://bongoflixbd.top/toffee/discovery_kids.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvTzSsKG/20250529-115440.png" group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/zvTzSsKG/20250529-115440.png" group-title="Kids",Cartoon Network
 https://bongoflixbd.top/bk/79.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBbj6c9g/20250529_115914.png" group-title="Kids", Sony Yay
+#EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://i.postimg.cc/wBbj6c9g/20250529_115914.png" group-title="Kids",Sony Yay
 https://bongoflixbd.top/toffee/sonyyay.m3u8?user=bongoflix&pass=eaminvai
-
-# --- Category: Others ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR885pSD/20251002_231959.png" group-title="Others", Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/qR885pSD/20251002_231959.png" group-title="Others",Animal Planet
 https://bongoflixbd.top/toffee/animal_planet_hd.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4xxp7zh/20251002_232031.png" group-title="Others", Discovery HD
+#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/k4xxp7zh/20251002_232031.png" group-title="Others",Discovery HD
 https://bongoflixbd.top/bk/83.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn4KK0kW/20251031_210443.png" group-title="Others", Nat Geo
+#EXTINF:-1 tvg-name="Nat Geo" tvg-logo="https://i.postimg.cc/Zn4KK0kW/20251031_210443.png" group-title="Others",Nat Geo
 https://bongoflixbd.top/bk/35.m3u8?user=bongoflix&pass=eaminvai
