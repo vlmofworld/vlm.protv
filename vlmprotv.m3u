@@ -51,8 +51,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://satoshi-cors.herokuapp.com/https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SG/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 #EXTINF:-1 tvg-name="BTV Sansad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/500px-Sangsad_Television_Emblem.svg.png" group-title="Bangla",BTV Sansad
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sami TV HD" tvg-logo="https://thebengalee.com/wp-content/uploads/2026/01/photo_2026-01-14_19-08-37-1-300x300.webp" group-title="Bangla",Sami TV HD
-https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
+#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla",SOMOY TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="http://tvassets.roarzone.info/images/4.png" group-title="Bangla",Channel 9
 https://edge2.roarzone.info:8444/roarzone/bk/4/index.m3u8?token=f883393ae0059187d3f111cf8bee56b011ceed68-be3210abede794e09a8969a51a044532-1768369897-1768366297
 #EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="Bangla",Asian TV
