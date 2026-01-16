@@ -25,6 +25,26 @@ https://bongoflixbd.top/sony-sports-2-hd.m3u8?user=bongoflix&pass=eaminvai
 https://bongoflixbd.top/sony-sports-3-hd.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-name="Sony Sports 5" tvg-logo="https://i.postimg.cc/kMLRN93q/20250529_123147.png" group-title="Sports",Sony Sports 5
 https://bongoflixbd.top/sony-sports-5-hd.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="BTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="News",BTV News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="JamunaTV" tvg-logo="https://i.postimg.cc/L4D0hyrt/20250529-071035.png" group-title="News",JamunaTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/Qxn4JFNV/20250529-071147.png" group-title="News",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/nLmPznJr/20250529-071852.png" group-title="News",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-name="Ekattor" tvg-logo="https://i.postimg.cc/D0xCDZqj/20250529-071258.png" group-title="News",Ekattor
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-name="Independent" tvg-logo="https://i.postimg.cc/QtkYQSVr/20250529-071659.png" group-title="News",Independent
+https://bongoflixbd.top/bk/12.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://i.postimg.cc/nzvgdpRg/20250529-102312.png" group-title="News",DBC News
+https://bongoflixbd.top/bk/7.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://i.postimg.cc/4NBkk4fT/20250529-102724.png" group-title="News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/sggzvQ6X/20250529-105045.png" group-title="News",Ekhon TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="News",BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.postimg.cc/JnWdHSrq/20250529-071604.png" group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="BTV CTG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/500px-BTV_Chattogram_Logo.svg.png" group-title="Bangla",BTV CTG
@@ -75,26 +95,6 @@ https://bongoflixbd.top/bk/86.m3u8?user=bongoflix&pass=eaminvai
 https://bongoflixbd.top/bk/61.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-name="Bangla tv" tvg-logo="http://tvassets.roarzone.info/images/19.png" group-title="Bangla",Bangla tv
 https://edge2.roarzone.info:8444/roarzone/bk/19/index.m3u8?token=0a949527a9b774bcd3f41c3fb4b670e937e6121d-8ed2fab895f4f4d08c49a94bfe30a7a7-1768369897-1768366297
-#EXTINF:-1 tvg-name="BTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="News",BTV News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="JamunaTV" tvg-logo="https://i.postimg.cc/L4D0hyrt/20250529-071035.png" group-title="News",JamunaTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/Qxn4JFNV/20250529-071147.png" group-title="News",Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/nLmPznJr/20250529-071852.png" group-title="News",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-name="Ekattor" tvg-logo="https://i.postimg.cc/D0xCDZqj/20250529-071258.png" group-title="News",Ekattor
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-name="Independent" tvg-logo="https://i.postimg.cc/QtkYQSVr/20250529-071659.png" group-title="News",Independent
-https://bongoflixbd.top/bk/12.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://i.postimg.cc/nzvgdpRg/20250529-102312.png" group-title="News",DBC News
-https://bongoflixbd.top/bk/7.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://i.postimg.cc/4NBkk4fT/20250529-102724.png" group-title="News",ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/sggzvQ6X/20250529-105045.png" group-title="News",Ekhon TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="News",BBC News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="Indian",Star Jalsha
 https://bongoflixbd.top/bk/30.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-name="w_300" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Indian",w_300
@@ -139,18 +139,6 @@ https://bongoflixbd.top/bk/starmovies.m3u8?user=bongoflix&pass=eaminvai
 https://bongoflixbd.top/toffee/b4u_movies.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://i.postimg.cc/RFXqn515/20250529_132912.png" group-title="Hindi",Hum TV
 https://bongoflixbd.top/toffee/hum_tv.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/pdddb1bs/20250529_120025.png" group-title="Music",Sangeet Bangla
-https://bongoflixbd.top/sangeetbangla.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-name="9Xm" tvg-logo="https://i.postimg.cc/P5yq7ncL/20250529_120144.png" group-title="Music",9Xm
-https://bongoflixbd.top/9xm.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-name="Zoom" tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="Music",Zoom
-https://bongoflixbd.top/zoom.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-name="Yrf Music" tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="Music",Yrf Music
-https://bongoflixbd.top/yrfmusic.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-name="Show Box" tvg-logo="https://i.postimg.cc/MKyHyQmm/20250529_120709.png" group-title="Music",Show Box
-https://bongoflixbd.top/showbox.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://i.postimg.cc/ZqfCWzxk/20250529_122103.png" group-title="Music",B4U Music
-https://bongoflixbd.top/b4umusic.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-name="Duronto" tvg-logo="https://i.postimg.cc/s2WM2BPR/20251127_095726.png" group-title="Kids",Duronto
 https://bongoflixbd.top/bk/10.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-name="Nick" tvg-logo="https://i.postimg.cc/5y5VX5t9/20250707_053227.png" group-title="Kids",Nick
@@ -163,6 +151,24 @@ https://bongoflixbd.top/toffee/discovery_kids.m3u8?user=bongoflix&pass=eaminvai
 https://bongoflixbd.top/bk/79.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://i.postimg.cc/wBbj6c9g/20250529_115914.png" group-title="Kids",Sony Yay
 https://bongoflixbd.top/toffee/sonyyay.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Gubbre" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Gubbare-TV_channel.jpg" group-title="Kids",Gubbre
+https://epiconvh.akamaized.net/live/gubbare/master_1080.m3u8
+#EXTINF:-1 tvg-name="Motu Patlu" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png?20171107044608" group-title="Kids",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Oggy 24/7" tvg-logo="https://i.ibb.co.com/p6vfVdjg/images-5.jpg" group-title="Kids",Oggy 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/pdddb1bs/20250529_120025.png" group-title="Music",Sangeet Bangla
+https://bongoflixbd.top/sangeetbangla.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="9Xm" tvg-logo="https://i.postimg.cc/P5yq7ncL/20250529_120144.png" group-title="Music",9Xm
+https://bongoflixbd.top/9xm.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Zoom" tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="Music",Zoom
+https://bongoflixbd.top/zoom.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Yrf Music" tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="Music",Yrf Music
+https://bongoflixbd.top/yrfmusic.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="Show Box" tvg-logo="https://i.postimg.cc/MKyHyQmm/20250529_120709.png" group-title="Music",Show Box
+https://bongoflixbd.top/showbox.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://i.postimg.cc/ZqfCWzxk/20250529_122103.png" group-title="Music",B4U Music
+https://bongoflixbd.top/b4umusic.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/qR885pSD/20251002_231959.png" group-title="Others",Animal Planet
 https://bongoflixbd.top/toffee/animal_planet_hd.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/k4xxp7zh/20251002_232031.png" group-title="Others",Discovery HD
