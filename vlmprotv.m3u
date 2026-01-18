@@ -1,1 +1,33 @@
-hi
+#EXTM3U
+#EXTINF:-1 tvg-name="BTV NEWS" tvg-id="1" tvg-logo="https://s3.aynaott.com/storage/35ae3e7750a053925a0a1732e219dc7a" group-title="NEWS",BTV NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-id="2" tvg-logo="https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8" group-title="NEWS",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-name="SOMOY NEWS TV" tvg-id="3" tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60" group-title="NEWS",SOMOY NEWS TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-id="4" tvg-logo="https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697" group-title="NEWS",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-name="CHANNEL 24" tvg-id="5" tvg-logo="https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55" group-title="NEWS",CHANNEL 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-name="EKATTOR TV" tvg-id="6" tvg-logo="https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7" group-title="NEWS",EKATTOR TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-name="DBC NEWS" tvg-id="7" tvg-logo="https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545" group-title="NEWS",DBC NEWS
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="ATN NEWS" tvg-id="8" tvg-logo="https://s3.aynaott.com/storage/8a3c5215dc0b943dc0a80333c0ab21ce" group-title="NEWS",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-name="EKHON TV" tvg-id="9" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="NEWS",EKHON TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="MAASRANGA TV" tvg-id="10" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737" group-title="NEWS",MAASRANGA TV
+http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+#EXTINF:-1 tvg-name="BPL" tvg-id="11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB2NlyPPnpfMfpNrUagJwPh2tH_o-bSZ042vIPYJmotg&s=10" group-title="SPORTS",BPL
+https://bd-mc-fdlive.fancode.com/mumbai/138933_english_hls_4a3b9a1b6c39851_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="DD Sports" tvg-id="12" tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="SPORTS",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-name="OMAN SPORTS TV" tvg-id="13" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9" group-title="SPORTS",OMAN SPORTS TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="BT Sports HD" tvg-id="14" tvg-logo="https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a" group-title="SPORTS",BT Sports HD
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="DUBAI SPORTS 1" tvg-id="15" tvg-logo="https://s3.aynaott.com/storage/fa186d6d9b9ba9cb2403531b1fcdc08b" group-title="SPORTS",DUBAI SPORTS 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="solhsports" tvg-id="16" tvg-logo="https://i.ibb.co.com/jk8Ln7Qq/solhsports.jpg" group-title="SPORTS",solhsports
+https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
